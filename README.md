@@ -34,9 +34,13 @@ In my case it has successfully toggled:
 
 ## Installation
 ```bash
-git clone https://github.com/Saeed-17/CPU-Horizon
+wget https://github.com/Saeed-17/CPU-Horizon/releases/latest/download/HZN
+
+# Give permission
 chmod +x HZN
-sudo ./HZN
+
+# Run
+./HZN
 
 
 
