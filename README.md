@@ -1,3 +1,5 @@
+# "Take control of your cpu not just monitor it! "
+
 # CPU Horizon (HZN)
 
 A simple Linux tool to control CPU cores and monitor per-core behavior.
@@ -25,4 +27,4 @@ chmod +x HZN
 sudo ./HZN
 
 
-# "Take control of your cpu not just monitor it"
+
