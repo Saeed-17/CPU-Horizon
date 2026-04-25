@@ -9,7 +9,7 @@ A simple Linux tool to control CPU cores and monitor per-core behavior.
 - Check core status
 - View Power limits
 
-# Why i made this?
+## Why i made this?
 I wanted more control over thermals and battery on my laptop.
 Disabling some cores dropped temps by ~8–10°C in my testing.
 
