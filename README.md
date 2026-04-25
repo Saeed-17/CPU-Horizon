@@ -23,3 +23,6 @@ Disabling some cores dropped temps by ~8–10°C in my testing.
 git clone https://github.com/Saeed-17/CPU-Horizon
 chmod +x HZN
 sudo ./HZN
+
+
+# "Take control of your cpu not just monitor it"
