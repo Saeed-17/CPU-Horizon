@@ -30,7 +30,7 @@ In my case it has successfully toggled:
 ## Safety
 - no background processes will run
 - no usage of netwrok
-- turning off all cores is impossible(turning off the first cpu core is not possible, it wont happenning even if you try clicking it). This prevents kernel panic.
+- turning off all cores is impossible(turning off the first cpu core is not possible, it wont happen even if you try clicking it). This prevents kernel panic.
 
 ## Installation
 ```bash
