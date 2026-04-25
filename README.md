@@ -40,7 +40,7 @@ wget https://github.com/Saeed-17/CPU-Horizon/releases/latest/download/HZN
 chmod +x HZN
 
 # Run
-./HZN
+sudo ./HZN
 
 
 
